@@ -1,11 +1,14 @@
-//import Button from '@/app/components/Button';
+import Title from '@/app/components/Title';
 //import styles from './page.module.css'
+
 export default function Home() {
     return (
-        <div >
-            
-            
+        <div>
+            <Title>
+                This is the title
+            </Title>
         </div>
+        
         
         )
     }
