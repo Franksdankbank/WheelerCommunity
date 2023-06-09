@@ -5,7 +5,7 @@ export default function Home() {
     return (
         <div>
             <Title>
-                This is the title
+                This is the Wheeler Community Webpage built by Frank
             </Title>
         </div>
         

@@ -8,14 +8,14 @@ const Title: React.FC<TitleProps> = ({ children }) => {
   return (
     <div
       style={{
-        
-        border: '2px solid black',
+        backgroundColor: '#fcba30',
+        border: '5px solid white',
         padding: '10px',
         display: 'flex',
         justifyContent: 'center',
-        width: '33%',
+        width: '60%',
         margin: '20px auto',
-
+        
       }}
     >
       <h1>{children}</h1>
