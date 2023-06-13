@@ -14,3 +14,8 @@
   border-radius: 5px;
   cursor: pointer;
 }
+
+.bb {
+  justify-content: center;
+  align-items: center;
+}
